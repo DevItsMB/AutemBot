@@ -14,22 +14,6 @@
     <td><code>$help</code></td>
     <td>None</td>
 	<td>A list of all commands</td>
-  <tr>
-    <td><code>$north-track</code></td>
-    <td>Administrator</td>
-	<td>Info about North Track</td>
-  <tr>
-    <td><code>$donkk-track</code></td>
-    <td>Administrator</td>
-	<td>Info about Donkk Track</td>
-  <tr>
-    <td><code>$harrison-track</code></td>
-    <td>Administrator</td>
-	<td>Info about Harrison Track</td>
-  <tr>
-    <td><code>$donkk-track2</code></td>
-    <td>Administrator</td>
-	<td>Info about Donkk Track 2</td>
 </table>
 
 
