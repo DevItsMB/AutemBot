@@ -32,7 +32,7 @@
 `git clone https://github.com/DevItsMB/AutemBot.git`
 * In the folder from where you ran the git command, run `npm install`to install the dependencies
 
-* Or simply download the <a href="https://github.com/DevItsMB/AutemBot/releases/tag/v1.0">lastest release</a>.
+* Or simply download the <a href="https://github.com/DevItsMB/AutemBot/releases/tag/v1.1">lastest release</a>.
 
 # Important
 * Create a file named `.env` with the following content:
