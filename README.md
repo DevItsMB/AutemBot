@@ -2,13 +2,6 @@
 # Information
 * This Bot was made for <a href="http://autem-servernetwork.de/">Autem Servernetwork</a>, a FiveM Community.
     
-<table width="100%"> 
-  <tr>
-    <td><img src="https://file.coffee/u/1QJx7l-x1.png" alt="SRDR" /></td>
-    <td><img src="https://file.coffee/u/yjvvOuZa0.png" alt="SRDR" /></td>
-  </tr>
-</table>
-
 
 # Commands
 <table>
