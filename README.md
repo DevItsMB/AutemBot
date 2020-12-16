@@ -35,7 +35,7 @@
 # Important
 * Create a file named `.env` with the following content:
 `DISCORD_BOT_TOKEN=your_token_here`
-NOTE: Replace "your_bot_token_here" with your own custom token. You can find that in your Discord Developer Portal. (You may need to create a new App + Bot User)
+NOTE: Replace "your_bot_token_here" with your own custom token. Make sure that this file is in the main directory for the Bot. You can find that in your Discord Developer Portal. (You may need to create a new App + Bot User)
 
 
 # Starting the Bot
