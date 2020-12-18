@@ -1,7 +1,6 @@
-# Discord Bot - SRDR <img src="https://img.shields.io/discord/740984870204866690?style=for-the-badge" />     
+# Discord Bot - SRDR <img src="https://img.shields.io/discord/740984870204866690?logo=discord&style=for-the-badge" />     
 # Information
 * This Bot was made for <a href="http://autem-servernetwork.de/">Autem Servernetwork</a>, a FiveM Community.
-    
 
 # Commands
 <table>
